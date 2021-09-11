@@ -1,2 +1,6 @@
 hola
+<<<<<<< HEAD
 este cambio hice en el local
+=======
+este cambio hice
+>>>>>>> 114f6718af5691b33d4cb0c87bf20045fb5575a6
